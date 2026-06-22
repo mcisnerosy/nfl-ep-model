@@ -181,6 +181,7 @@ Then run the notebooks in order: `01` through `05`. Each notebook saves its outp
 | `DECISIONS.md` | Every modeling decision with justification and alternatives considered |
 | `FINDINGS.md` | Results, calibration analysis, and known limitations |
 | `READING_NOTES.md` | Notes from Burke (2010) and the nflfastR methodology |
+| `WRITEUP.md` | Overall summary of project and the process I took with research and modeling|
 
 ---
 
